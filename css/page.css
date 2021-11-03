@@ -45,8 +45,16 @@ strong {font-weight:bold;}
     line-height: 1.6;
 }
 
-#intro {
+#center_content { 
     text-align: center;
+    float: center;
+    background: #FFFFFF;
+    width: 500px;
+    line-height: 1.6;
+}
+
+#intro {
+    text-align: left;
     float: center;
     background: #FFFFFF;
     width: 500px;
