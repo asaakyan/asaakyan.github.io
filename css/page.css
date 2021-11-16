@@ -37,19 +37,11 @@ strong {font-weight:bold;}
     line-height: 1.6;
 }
 
-#navigation {
-    float: left;
-    height: 40px;
-    width: 500px;
-    background: #FFFFFF;
-    line-height: 1.6;
-}
-
 #center_content { 
     text-align: center;
     float: center;
     background: #FFFFFF;
-    width: 500px;
+    width: auto;
     line-height: 1.6;
 }
 
@@ -57,14 +49,14 @@ strong {font-weight:bold;}
     text-align: left;
     float: center;
     background: #FFFFFF;
-    width: 500px;
+    width: auto;
     line-height: 1.6;
 }
 
 #content {
     float: left;
     background: #FFFFFF;
-    width: 500px;
+    width: auto;
     line-height: 1.6;
 }
 
