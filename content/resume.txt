@@ -1,1 +1,95 @@
-available upon request
+Arkadiy Saakyan
+Last updated January 2023
+-
+EDUCATION
+
+Columbia University in the City of New York
+PhD in Computer Science (Natural Language Processing) Advisor: Dr. Smaranda Muresan
+
+Columbia University in the City of New York, Columbia College 
+B.A. in Computer Science, Concentration in Mathematics
+-
+PUBLICATIONS
+
+Arkadiy Saakyan*, Tuhin Chakrabarty*, Olivia Winn*, Artemis Panagopoulou, Yue Yang, Marianna Apidianaki, and Smaranda Muresan. I Spy a Metaphor: Large Language Models and Diffusion Models Co- Create Visual Metaphors (under review)
+• Use chain of thought prompting to elicit visual descriptions for metaphors to help diffusion models
+generate visual metaphors.
+
+Tuhin Chakrabarty, Arkadiy Saakyan, Debanjan Ghosh, and Smaranda Muresan. FLUTE: Figurative Language Understanding and Textual Explanations. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022). (Long paper, Poster)
+• Generate a dataset for figurative language understanding with textual explanations via model-in-the-
+loop framework with GPT-3. Distilled resulting generations to smaller T5 model to significantly improve the quality of rationales generated to explain the reasoning behind figurative natural language inference problems.
+
+Tuhin Chakrabarty, Arkadiy Saakyan, and Smaranda Muresan (2021). Don’t Go Far Off: An Empirical Study on Neural Poetry Translation. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021). (Long paper, Oral)
+• Present an empirical investigation for poetry translation along several dimensions: 1) size and style of
+training data (poetic vs. non-poetic), including a zero-shot setup; 2) bilingual vs. multilingual learning; and 3) language-family-specific models vs. mixed-multilingual models
+
+Arkadiy Saakyan, Tuhin Chakrabarty, and Smaranda Muresan (2021). COVID-Fact: Fact Extraction and Verification of Real-World Claims about COVID-19 Pandemic. In Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL 2021). (Long paper, Oral)
+• Introduces a FEVER-like dataset COVIDFact of 4,086 claims concerning the COVID-19 pandemic, generated automatically language models rather than employing human annotators.
+-
+RESEARCH EXPERIENCE
+
+Columbia Computer Science Department 
+May 2020 - Present
+Graduate Research Assistant | Advisor: Dr. Smaranda Muresan
+
+Columbia Computer Science Department & Columbia Law School 
+Sept 2019 - May 2020
+Research Assistant | Advisors: Dr. Daniel Bauer, Dr. Frank Giaoui Columbia Business School
+
+Columbia Business School 
+Sept 2018 - May 2019
+Research Assistant | Advisor: Dr. Tania Babina 
+-
+INDUSTRY EXPERIENCE
+Data Analytics Lab, UBS Global Banking, New York, NY 
+July 2021 - Aug 2022
+Data Scientist
+
+Data Analytics Lab, UBS Global Banking, New York, NY 
+Summer 2019, Summer 2020
+Data Science Intern
+-
+HONORS & AWARDS
+
+Columbia Data Science Institute Best Student Project
+Awarded for EMNLP 2021 paper Don’t Go Far Off: An Empirical Study on Neural Poetry Translation
+
+ACL 2021 Diversity & Inclusion Award Columbia Undergraduate Scholars Program
+
+Summer Research Grant ($3,500)
+
+Columbia Work Exemption Program
+Grant to perform research during academic year ($3,600)
+
+John Jay National Scholarship
+This award program provides financial aid and special programming to enhance the academic and extracurricular experiences of outstanding students.
+-
+ORGANIZATIONAL MEMBERSHIPS
+
+ACL (Association for Computational Linguistics) Summer 2021 - Present 
+
+Queer in AI Summer 2021 - Present
+-
+SKILLS
+Programming 
+Python (including huggningface, fairseq, pytorch, sklearn, matplotlib, pandas, numpy, networkx, Flask), SQL, Java, C/C++, Prolog
+
+Technologies 
+Git, Amazon Mechanical Turk, Microsoft Excel, LaTeX 
+-
+RELEVANT COURSEWORK
+NLP 
+Multilingual Language Technologies and Language Diversity, Semantic Representations in NLP, Natural Language Processing, Semantic and Declarative Technologies
+
+ML 
+Machine Learning, Geometric Data Analysis, Artificial Intelligence
+
+Math 
+Statistical Inference, Probability Theory, Graph Theory, Structure and Dynamics of
+Complex Networks, Linear Algebra, Accelerated Multivariable Calculus
+
+Logic 
+Mathematical Logic II, Mathematical Logic I, Modal Logic, Theory of Computing
+
+CS 
+Advanced Algorithms, Introduction to Databases, Advanced Programming, Fundamentals of Computer Systems, Data Structures, Agile Project Management
