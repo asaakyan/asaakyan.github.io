@@ -1,14 +1,14 @@
 Arkadiy Saakyan
 Last updated January 2023
--
+===
 EDUCATION
 
 Columbia University in the City of New York
-PhD in Computer Science (Natural Language Processing) Advisor: Dr. Smaranda Muresan
+PhD in Computer Science (Natural Language Processing) Advisor: Prof. Smaranda Muresan
 
 Columbia University in the City of New York, Columbia College 
 B.A. in Computer Science, Concentration in Mathematics
--
+===
 PUBLICATIONS
 
 Arkadiy Saakyan*, Tuhin Chakrabarty*, Olivia Winn*, Artemis Panagopoulou, Yue Yang, Marianna Apidianaki, and Smaranda Muresan. I Spy a Metaphor: Large Language Models and Diffusion Models Co- Create Visual Metaphors (under review)
@@ -25,21 +25,21 @@ training data (poetic vs. non-poetic), including a zero-shot setup; 2) bilingual
 
 Arkadiy Saakyan, Tuhin Chakrabarty, and Smaranda Muresan (2021). COVID-Fact: Fact Extraction and Verification of Real-World Claims about COVID-19 Pandemic. In Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL 2021). (Long paper, Oral)
 • Introduces a FEVER-like dataset COVIDFact of 4,086 claims concerning the COVID-19 pandemic, generated automatically language models rather than employing human annotators.
--
+===
 RESEARCH EXPERIENCE
 
 Columbia Computer Science Department 
 May 2020 - Present
-Graduate Research Assistant | Advisor: Dr. Smaranda Muresan
+Graduate Research Assistant | Advisor: Prof. Smaranda Muresan
 
 Columbia Computer Science Department & Columbia Law School 
 Sept 2019 - May 2020
-Research Assistant | Advisors: Dr. Daniel Bauer, Dr. Frank Giaoui Columbia Business School
+Research Assistant | Advisors: Prof. Daniel Bauer, Dr. Frank Giaoui
 
 Columbia Business School 
 Sept 2018 - May 2019
-Research Assistant | Advisor: Dr. Tania Babina 
--
+Research Assistant | Advisor: Prof. Tania Babina 
+===
 INDUSTRY EXPERIENCE
 Data Analytics Lab, UBS Global Banking, New York, NY 
 July 2021 - Aug 2022
@@ -48,7 +48,7 @@ Data Scientist
 Data Analytics Lab, UBS Global Banking, New York, NY 
 Summer 2019, Summer 2020
 Data Science Intern
--
+===
 HONORS & AWARDS
 
 Columbia Data Science Institute Best Student Project
@@ -63,20 +63,23 @@ Grant to perform research during academic year ($3,600)
 
 John Jay National Scholarship
 This award program provides financial aid and special programming to enhance the academic and extracurricular experiences of outstanding students.
--
+===
 ORGANIZATIONAL MEMBERSHIPS
 
 ACL (Association for Computational Linguistics) Summer 2021 - Present 
 
 Queer in AI Summer 2021 - Present
--
+===
 SKILLS
 Programming 
 Python (including huggningface, fairseq, pytorch, sklearn, matplotlib, pandas, numpy, networkx, Flask), SQL, Java, C/C++, Prolog
 
 Technologies 
 Git, Amazon Mechanical Turk, Microsoft Excel, LaTeX 
--
+
+Languages
+Armenian (native), Russian (native), Italian (intermediate), French (basic), Brazilian Portuguese (basic)
+===
 RELEVANT COURSEWORK
 NLP 
 Multilingual Language Technologies and Language Diversity, Semantic Representations in NLP, Natural Language Processing, Semantic and Declarative Technologies
