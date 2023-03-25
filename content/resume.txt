@@ -1,13 +1,16 @@
 Arkadiy Saakyan
-Last updated January 2023
+Last updated March 2023
 ===
 EDUCATION
 
 Columbia University in the City of New York
-PhD in Computer Science (Natural Language Processing) Advisor: Prof. Smaranda Muresan
+PhD in Computer Science (Natural Language Processing) 
+Advisor: Prof. Smaranda Muresan
+2022-Present
 
 Columbia University in the City of New York, Columbia College 
 B.A. in Computer Science, Concentration in Mathematics
+2017-2021
 ===
 PUBLICATIONS
 
@@ -41,6 +44,11 @@ Sept 2018 - May 2019
 Research Assistant | Advisor: Prof. Tania Babina 
 ===
 INDUSTRY EXPERIENCE
+
+Amazon Web Services, New York, NY
+May 2023 - Aug 2023
+Applied Scientist Intern
+
 Data Analytics Lab, UBS Global Banking, New York, NY 
 July 2021 - Aug 2022
 Data Scientist
@@ -71,6 +79,7 @@ ACL (Association for Computational Linguistics) Summer 2021 - Present
 Queer in AI Summer 2021 - Present
 ===
 SKILLS
+
 Programming 
 Python (including huggningface, fairseq, pytorch, sklearn, matplotlib, pandas, numpy, networkx, Flask), SQL, Java, C/C++, Prolog
 
@@ -81,6 +90,7 @@ Languages
 Armenian (native), Russian (native), Italian (intermediate), French (basic), Brazilian Portuguese (basic)
 ===
 RELEVANT COURSEWORK
+
 NLP 
 Multilingual Language Technologies and Language Diversity, Semantic Representations in NLP, Natural Language Processing, Semantic and Declarative Technologies
 
