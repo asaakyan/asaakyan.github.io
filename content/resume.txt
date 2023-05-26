@@ -1,32 +1,44 @@
 Arkadiy Saakyan
-Last updated March 2023
-===
+Last updated May 2023
+---
 EDUCATION
 
 Columbia University in the City of New York
 PhD in Computer Science (Natural Language Processing) 
 Advisor: Prof. Smaranda Muresan
-2022-Present
+May 2026 (expected)
+
+Columbia University in the City of New York
+M.S. in Computer Science 
+GPA 4.30/4.33
+May 2023
 
 Columbia University in the City of New York, Columbia College 
 B.A. in Computer Science, Concentration in Mathematics
-2017-2021
-===
+GPA 3.73/4.44
+May 2021
+---
 PUBLICATIONS
+Google Scholar: https://tinyurl.com/scholar-saakyan
 
-Arkadiy Saakyan*, Tuhin Chakrabarty*, Olivia Winn*, Artemis Panagopoulou, Yue Yang, Marianna Apidianaki, and Smaranda Muresan. I Spy a Metaphor: Large Language Models and Diffusion Models Co- Create Visual Metaphors (under review)
-• Use chain of thought prompting to elicit visual descriptions for metaphors to help diffusion models
-generate visual metaphors.
+Arkadiy Saakyan*, Tuhin Chakrabarty*, Olivia Winn*, Artemis Panagopoulou, Yue Yang, Marianna Apidianaki, and Smaranda Muresan. I Spy a Metaphor: Large Language Models and Diffusion Models Co-Create Visual Metaphors (Findings of ACL 2023)
+- Evaluate language model and text-to-image diffusion model collaboration for visual metaphor creation.
 
 Tuhin Chakrabarty, Arkadiy Saakyan, Debanjan Ghosh, and Smaranda Muresan. FLUTE: Figurative Language Understanding and Textual Explanations. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022). (Long paper, Poster)
-• Generate a dataset for figurative language understanding with textual explanations via model-in-the-loop framework with GPT-3. Distilled resulting generations to smaller T5 model to significantly improve the quality of rationales generated to explain the reasoning behind figurative natural language inference problems.
+- Generate a dataset for figurative language understanding with textual explanations via model-in-the-loop framework with GPT-3. Distilled resulting generations to smaller T5 model to significantly improve the quality of rationales generated to explain the reasoning behind figurative natural language inference problems.
 
 Tuhin Chakrabarty, Arkadiy Saakyan, and Smaranda Muresan (2021). Don’t Go Far Off: An Empirical Study on Neural Poetry Translation. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021). (Long paper, Oral)
-• Present an empirical investigation on poetry translation along several dimensions: 1) size and style of training data (poetic vs. non-poetic), including a zero-shot setup; 2) bilingual vs. multilingual learning; and 3) language-family-specific models vs. mixed-multilingual models
+- Present an empirical investigation on poetry translation along several dimensions: 1) size and style of training data (poetic vs. non-poetic), including a zero-shot setup; 2) bilingual vs. multilingual learning; and 3) language-family-specific models vs. mixed-multilingual models
 
 Arkadiy Saakyan, Tuhin Chakrabarty, and Smaranda Muresan (2021). COVID-Fact: Fact Extraction and Verification of Real-World Claims about COVID-19 Pandemic. In Proceedings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL 2021). (Long paper, Oral)
-• Introduces a FEVER-like dataset COVIDFact of 4,086 claims concerning the COVID-19 pandemic, generated automatically with language models rather than employing human annotators.
-===
+- Introduces a FEVER-like dataset COVIDFact of 4,086 claims concerning the COVID-19 pandemic, generated automatically with language models rather than employing human annotators.
+---
+WORK IN PROGRESS
+
+Sociocultural Norm Similarities and Differences via Situational Alignment and Explainable Textual Entailment
+Sky CH-Wang*, Arkadiy Saakyan* , Oliver Li, Zhou Yu, and Smaranda Muresan (pre-print)
+- Create a novel dataset of situationally aligned social norms and models fine-tuned for explainable understanding of cross-cultural social norm entailment.
+---
 RESEARCH EXPERIENCE
 
 Columbia Computer Science Department 
@@ -40,7 +52,7 @@ Research Assistant | Advisors: Prof. Daniel Bauer, Dr. Frank Giaoui
 Columbia Business School 
 Sept 2018 - May 2019
 Research Assistant | Advisor: Prof. Tania Babina 
-===
+---
 INDUSTRY EXPERIENCE
 
 Amazon Web Services, New York, NY
@@ -54,7 +66,7 @@ Data Scientist
 Data Analytics Lab, UBS Global Banking, New York, NY 
 Summer 2019, Summer 2020
 Data Science Intern
-===
+---
 HONORS & AWARDS
 
 Columbia Data Science Institute Best Student Project
@@ -71,8 +83,14 @@ Grant to perform research during academic year ($3,600)
 Columbia Undergraduate Scholars Program
 
 John Jay National Scholarship
-This award program provides financial aid and special programming to enhance the academic and extracurricular experiences of outstanding students.
-===
+"This award program provides financial aid and special programming to enhance the academic and extracurricular experiences of outstanding students."
+---
+SERVICE
+
+Reviewer at 
+- EACL 2023
+- ACL 2023
+---
 ORGANIZATIONAL MEMBERSHIPS
 
 ACL (Association for Computational Linguistics) 
@@ -80,18 +98,18 @@ Summer 2021 - Present
 
 Queer in AI
 Summer 2021 - Present
-===
+--
 SKILLS
 
 Programming 
 Python (including huggningface, fairseq, pytorch, sklearn, matplotlib, pandas, numpy, networkx, Flask), SQL, Java, C/C++, Prolog
 
-Technologies 
+Tools 
 Git, Amazon Mechanical Turk, Microsoft Excel, LaTeX 
 
 Languages
-Armenian (native), Russian (native), Italian (intermediate), French (basic), Brazilian Portuguese (basic)
-===
+Armenian (heritage speaker), Russian (native), Italian (intermediate), French (basic), Brazilian Portuguese (basic)
+---
 RELEVANT COURSEWORK
 
 NLP 
