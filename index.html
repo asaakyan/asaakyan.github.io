@@ -8,16 +8,17 @@
 			    margin: 0;
 			    font-family: Arial, sans-serif;
 			    font-size: 16px;
-			    line-height: 1.6;
+			    line-height: 1.5;
 			    background-color: #f9f9f9;
 			}
 			.container {
-				max-width: 960px;
+				max-width: 1000px;
 				margin: 0 auto;
 				padding: 40px;
 			}
-			h1, h2 {
+			h1, h2, h3 {
 			    color: #333;
+			    margin-bottom: 0.15em;
 			}
 			a {
 			    color: #333;
@@ -33,17 +34,13 @@
 				border-radius: 50%;
 			}
 			h2 {
-			  margin-bottom: 0.5em;
+			  margin-bottom: 0.15em;
 			}
 			p {
-			  margin-top: 0.5em;
-			}
-			ul {
-				list-style-type: none;
-				padding-left: 0;
+			  margin-top: 0.15em;
 			}
 			li {
-				margin-bottom: 0.5em;
+				margin-bottom: 0.15em;
 			}
 		</style>
 	</head>
@@ -52,7 +49,7 @@
 		<h1 style="text-align:center">Arkadiy Saakyan</h1>
 
 		<figure>
-			<img src="content/me.jpg" alt="Arkadiy Saakyan" style="width:200px;height:200px;">
+			<img src="content/me.jpg" alt="Arkadiy Saakyan" style="width:150px;height:150px;">
 		<figcaption>
 		<a href="mailto:a.saakyan@cs.columbia.edu">a.saakyan@cs.columbia.edu</a>
 		<br>
@@ -67,62 +64,68 @@
 		<p>
 			Hi! Thanks for visiting my page. Last updated May 26, 2023.
 			<br>
-			I am a first-year PhD Student in <a href="https://cs.columbia.edu">Computer Science at Columbia University</a>. I focus on NLP and am advised by <a href="http://www.cs.columbia.edu/~smara/index.html">Prof. Smaranda Muresan</a>.
+			I am a first-year PhD Student in <a href="https://cs.columbia.edu">Computer Science at Columbia University</a>. I focus on NLP and am advised by <a href="http://www.cs.columbia.edu/~smara/index.html">Prof. Smaranda Muresan</a>. Boradly, my research focuses on creating <strong> language models that are <i> helpful </i> to humans</strong>:
+			<ul>
+				<li> How can we utilize human-AI collaboration to build high-quality, challenging datasets? [1,2,5] </li>
+				<li> How can we teach the models to explain their answer, not only to predict labels by relying on spurious correlations? [2,5] </li>
+				<li> How can we ensure language models comprehend nuances of human langauge, such as metaphors and idioms? [2,3] </li>
+				<li> How can we use language models to assist humans in large-scale tasks requiring sophisticated reasoning, like fact-checking? [4] </li>
+			</ul>
+			<!-- Previously, I was a Data Scientist at <a href="https://www.ubs.com/us/en.html">UBS</a>, where I worked on corporate activism prediction.
 			<br>
-			My main research focus includes natural language generation, knowledge distillation and human-in-the-loop frameworks, robustness of models to real-world scenarios and model helpfulness (how can we make language models helpful for humans?).
-			<br>
-			Previously, I was a Data Scientist at <a href="https://www.ubs.com/us/en.html">UBS</a>, where I worked on corporate activism prediction.
-			<br>
-			Before that, I was an undergrad at <a href="https://columbia.edu">Columbia</a>, where I was part of the <a href="http://www1.cs.columbia.edu/nlp/index.cgi">Columbia NLP lab</a> advised by <a href="http://www.cs.columbia.edu/~smara/index.html">Prof. Smaranda Muresan</a> and <a href="http://www.cs.columbia.edu/~bauer/">Prof. Daniel Bauer</a>.
+			Before that, I was an undergrad at <a href="https://columbia.edu">Columbia</a>, where I was part of the <a href="http://www1.cs.columbia.edu/nlp/index.cgi">Columbia NLP lab</a> advised by <a href="http://www.cs.columbia.edu/~smara/index.html">Prof. Smaranda Muresan</a> and <a href="http://www.cs.columbia.edu/~bauer/">Prof. Daniel Bauer</a>. -->
 </p>
 <div>
-<h2>Publications</h2>
-<ul>
-<li>
-<a href="https://arxiv.org/abs/2305.14724">I Spy a Metaphor: Large Language Models and Diffusion Models Co-Create Visual Metaphors</a>
-<br>  Tuhin Chakrabarty*, <strong>Arkadiy Saakyan*</strong>, Olivia Winn*, Artemis Panagopoulou, Yue Yang, Marianna Apidianaki, and Smaranda Muresan.
-<br> Findings of ACL 2023.
-<br>
-[<a href="https://github.com/tuhinjubcse/VisualMetaphors">Code and Data</a>]
-</li>
-<li>
-<a href="https://aclanthology.org/2022.emnlp-main.481/">FLUTE: Figurative Language Understanding through Textual Explanations</a>
-<br> Tuhin Chakrabarty, <strong>Arkadiy Saakyan</strong>, Debanjan Ghosh, and Smaranda Muresan.
-<br> Proceedings of EMNLP 2022. (Long paper, poster)
-<br>
-[<a href="https://github.com/tuhinjubcse/model-in-the-loop-fig-lang">Code and Data</a>]
-</li>
-<li>
-<a href="https://aclanthology.org/2021.emnlp-main.577/">Don’t Go Far Off: An Empirical Study on Neural Poetry Translation.</a>
-<br> Tuhin Chakrabarty, <strong>Arkadiy Saakyan</strong>, and Smaranda Muresan.
-<br> Proceedings of EMNLP 2021. (Long paper, oral)
-<br>
-[<a href="./content/poetry_presentation.pdf">Slides</a>]
-[<a href="https://s3.amazonaws.com/pf-upload-01/u-59356/0/2021-11-02/c833sbo/Poetry.mp4">Talk</a>]
-[<a href="https://github.com/tuhinjubcse/PoetryTranslationEMNLP2021">Code and Data</a>]
-</li>
-<li>
-<a href="https://aclanthology.org/2021.acl-long.165/">COVID-Fact: Fact Extraction and Verification of Real-World Claims about COVID-19 Pandemic.</a>
-<br> <strong>Arkadiy Saakyan</strong>, Tuhin Chakrabarty, and Smaranda Muresan.
-<br> Proceedings of ACL 2021. (Long paper, oral)
-<br>
-[<a href="./content/covidfact_presentation.pdf">Slides</a>]
-[<a href="https://s3.amazonaws.com/pf-upload-01/u-59356/0/2021-06-24/gl23zd6/COVIDFACT.mov">Talk</a>]
-[<a href="https://github.com/asaakyan/covidfact">Code and Data</a>]
-</li>
-</ul>
+	<h2>News</h2>
+	<ul>
+	<li> May 2023: Excited to start my Applied Scientist internship at Amazon Web Services!</li>
+	</ul>
 </div>
 <div>
-	<h2>Work in progress</h2>
-	<ul>
-		<li>
+	<h2>Publications</h2>
+	* denotes equal contribution
+	<ol>
+	<li>
+	<a href="https://arxiv.org/abs/2305.14724">I Spy a Metaphor: Large Language Models and Diffusion Models Co-Create Visual Metaphors</a>
+	<br>  Tuhin Chakrabarty*, <strong>Arkadiy Saakyan*</strong>, Olivia Winn*, Artemis Panagopoulou, Yue Yang, Marianna Apidianaki, and Smaranda Muresan.
+	<br> Findings of ACL 2023.
+	<br>
+	[<a href="https://github.com/tuhinjubcse/VisualMetaphors">Code and Data</a>]
+	</li>
+	<li>
+	<a href="https://aclanthology.org/2022.emnlp-main.481/">FLUTE: Figurative Language Understanding through Textual Explanations</a>
+	<br> Tuhin Chakrabarty, <strong>Arkadiy Saakyan</strong>, Debanjan Ghosh, and Smaranda Muresan.
+	<br> Proceedings of EMNLP 2022. (Long paper, poster)
+	<br>
+	[<a href="https://github.com/tuhinjubcse/model-in-the-loop-fig-lang">Code and Data</a>]
+	</li>
+	<li>
+	<a href="https://aclanthology.org/2021.emnlp-main.577/">Don’t Go Far Off: An Empirical Study on Neural Poetry Translation.</a>
+	<br> Tuhin Chakrabarty, <strong>Arkadiy Saakyan</strong>, and Smaranda Muresan.
+	<br> Proceedings of EMNLP 2021. (Long paper, oral)
+	<br>
+	[<a href="./content/poetry_presentation.pdf">Slides</a>]
+	[<a href="https://s3.amazonaws.com/pf-upload-01/u-59356/0/2021-11-02/c833sbo/Poetry.mp4">Talk</a>]
+	[<a href="https://github.com/tuhinjubcse/PoetryTranslationEMNLP2021">Code and Data</a>]
+	</li>
+	<li>
+	<a href="https://aclanthology.org/2021.acl-long.165/">COVID-Fact: Fact Extraction and Verification of Real-World Claims about COVID-19 Pandemic.</a>
+	<br> <strong>Arkadiy Saakyan</strong>, Tuhin Chakrabarty, and Smaranda Muresan.
+	<br> Proceedings of ACL 2021. (Long paper, oral)
+	<br>
+	[<a href="./content/covidfact_presentation.pdf">Slides</a>]
+	[<a href="https://s3.amazonaws.com/pf-upload-01/u-59356/0/2021-06-24/gl23zd6/COVIDFACT.mov">Talk</a>]
+	[<a href="https://github.com/asaakyan/covidfact">Code and Data</a>]
+	</li>
+	<h3>Work in progress:</h3>
+	<li>
 		<a href="https://arxiv.org/abs/2305.14492">Sociocultural Norm Similarities and Differences via Situational Alignment and Explainable Textual Entailment</a>
 		<br>  Sky CH-Wang*, <strong> Arkadiy Saakyan* </strong>, Oliver Li, Zhou Yu, and Smaranda Muresan
 		<br> Pre-print.
 		<br>
 		[<a href="https://github.com/asaakyan/SocNormNLI">Code and Data</a>]
 		</li>
-	</ul>
+	</ol>
 </div>
 <div>
 <h2>Other</h2>
