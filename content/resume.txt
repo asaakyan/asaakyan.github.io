@@ -1,5 +1,5 @@
 Arkadiy Saakyan
-Last updated May 2023
+Last updated Oct 2023
 ---
 EDUCATION
 
@@ -21,6 +21,18 @@ May 2021
 PUBLICATIONS
 Google Scholar: https://tinyurl.com/scholar-saakyan
 
+Sociocultural Norm Similarities and Differences via Situational Alignment and Explainable Textual Entailment
+Sky CH-Wang*, Arkadiy Saakyan*, Oliver Li, Zhou Yu, and Smaranda Muresan
+Proceedings of EMNLP 2023
+
+NormDial: A Comparable Bilingual Synthetic Dialog Dataset for Modeling Social Norm Adherence and Violation
+Oliver Li, Mallika Subramanian, Arkadiy Saakyan, Sky CH-Wang, and Smaranda Muresan
+Proceedings of EMNLP 2023
+
+Learning to Follow Object-Centric Image Editing Instructions Faithfully
+Tuhin Chakrabarty, Kanishk Singh, Arkadiy Saakyan, Smaranda Muresan
+Findings of EMNLP 2023
+
 Arkadiy Saakyan*, Tuhin Chakrabarty*, Olivia Winn*, Artemis Panagopoulou, Yue Yang, Marianna Apidianaki, and Smaranda Muresan. I Spy a Metaphor: Large Language Models and Diffusion Models Co-Create Visual Metaphors (Findings of ACL 2023)
 - Evaluate language model and text-to-image diffusion model collaboration for visual metaphor creation.
 
@@ -35,9 +47,9 @@ Arkadiy Saakyan, Tuhin Chakrabarty, and Smaranda Muresan (2021). COVID-Fact: Fac
 ---
 WORK IN PROGRESS
 
-Sociocultural Norm Similarities and Differences via Situational Alignment and Explainable Textual Entailment
-Sky CH-Wang*, Arkadiy Saakyan* , Oliver Li, Zhou Yu, and Smaranda Muresan (pre-print)
-- Create a novel dataset of situationally aligned social norms and models fine-tuned for explainable understanding of cross-cultural social norm entailment.
+ICLEF: In-Context Learning with Expert Feedback for Explainable Style Transfer
+Arkadiy Saakyan and Smaranda Muresan
+- Introduce a dataset for explainable style transfer and a method to learn from scarce expert feedback using in-context learning.
 ---
 RESEARCH EXPERIENCE
 
@@ -90,6 +102,7 @@ SERVICE
 Reviewer at 
 - EACL 2023
 - ACL 2023
+- EMNLP 2023
 ---
 ORGANIZATIONAL MEMBERSHIPS
 
@@ -127,3 +140,6 @@ Mathematical Logic II, Mathematical Logic I, Modal Logic, Theory of Computing
 
 CS 
 Advanced Algorithms, Introduction to Databases, Advanced Programming, Fundamentals of Computer Systems, Data Structures, Agile Project Management
+---
+IMMIGRATION
+Approved EB-2 National Interest Waiver I-140 petition
