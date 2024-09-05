@@ -1,0 +1,6 @@
+@inproceedings{saakyan2021covidfact,
+  title={COVID-Fact: Fact Extraction and Verification of Real-World Claims about COVID-19 Pandemic},
+  author={Saakyan, Arkadiy and Chakrabarty, Tuhin and Muresan, Smaranda},
+  booktitle={Proceedings of ACL 2021},
+  year={2021}
+}
