@@ -552,3 +552,45 @@
       break-inside: avoid;
     }
   }
+
+  /* Ensure sections and publication lists expand to fit content */
+  section, .section-content, .subsection-content, .publication-item {
+    height: auto !important;
+    max-height: none !important;
+    overflow: visible !important;
+  }
+
+  /* Keep collapsible behavior only when explicitly collapsed */
+  .section-content.collapsed,
+  .subsection-content.collapsed {
+    max-height: 0 !important;
+    overflow: hidden !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  /* Smooth expand/collapse */
+  .section-content,
+  .subsection-content {
+    transition: max-height 0.3s ease;
+    display: block;
+    align-items: stretch;
+  }
+
+  /* Ensure the Publications container and items are not constrained by flex/grid rules */
+  .section-content .subsection-content,
+  .section-content .publication-item {
+    flex: 0 0 auto;
+  }
+
+  /* Prevent any parent container from clipping content */
+  main, body, html {
+    height: auto !important;
+    overflow-y: visible !important;
+  }
+
+  /* Extra safety to avoid clipping due to transforms or positioning */
+  .publication-item *,
+  .subsection-content * {
+    overflow: visible;
+  }
